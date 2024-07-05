@@ -9,3 +9,4 @@
 Maashal/Maashal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![Build and deploy Python app to Azure Web App - Intelifarmtech-farmers](https://github.com/keerthikorumilli/IntelliFarmTech_Websitefor_Farmers/actions/workflows/main_intelifarmtech-farmers.yml/badge.svg)](https://github.com/keerthikorumilli/IntelliFarmTech_Websitefor_Farmers/actions/workflows/main_intelifarmtech-farmers.yml)
